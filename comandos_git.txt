@@ -3,6 +3,7 @@ git status -> mostra o status do trabalho (de cada arquivo)
 git add nome_arquivo -> adiciona arquivo para ser comitado
 git commit -m "msg" -> faz commit do que estava para ser comitado
 git log -> mostra todo o histórico de commit
+git diff -> mostra a diferença do estado do arquivo alterado ( antes e atual )
 
 ## FLUXO DE TRABALHO
 
@@ -14,5 +15,4 @@ git log -> mostra todo o histórico de commit
 6. git status
 7. git commit -m "mensagem"
 8. git status
-9. git log
-10. volta ao passo 3
+9. voltar ao passo 3
