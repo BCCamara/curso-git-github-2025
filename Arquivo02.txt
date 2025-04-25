@@ -1,0 +1,3 @@
+criado arquivo02
+
+arquivo alterado para mergear com a branch principal ( master )
