@@ -1,2 +1,1 @@
-criando uma nova branch e clonando a branch atual com o comando 
-'git brach -b <nome da nova brach>'
+novos comandos secundarios
